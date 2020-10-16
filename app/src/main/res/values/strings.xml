@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Foodie</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+</resources>
